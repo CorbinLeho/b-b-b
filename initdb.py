@@ -1,4 +1,4 @@
-from BBB.app import db
+from b-button.app import db
 
 # db.drop_all()
 db.create_all()
